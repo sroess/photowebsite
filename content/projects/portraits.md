@@ -4,7 +4,7 @@ date = 2024-06-27T12:10:01-07:00
 draft = true
 +++
 
-Portraits are one of the fundamentals of photography. Everyone needs a good portrait, whether it's for work, school, or a portfolio. Below are a selection of photos I have taken for scholarship students, artists, creative portraits, and self.
+Portraits are one of the fundamentals of photography. Everyone needs a good portrait, whether it's for work, school, or a portfolio. Below are a selection of photos I have taken for scholarship students, artists, creative portraits, and self portraits.
 
 ---
 ![Feb 2025 Fashion Show 1](/static/images/SR_Feb_FashionShow-1.jpg)
