@@ -7,7 +7,7 @@ draft = true
 Portraits are one of the fundamentals of photography. Everyone needs a good portrait, whether it's for work, school, or a portfolio. Below are a selection of photos I have taken for scholarship students, artists, creative portraits, and self-portraits. 
 
 ---
-![Feb 2025 Fashion Show 1](/static/images/SR_Feb_FashionShow-1.jgp)
+![Feb 2025 Fashion Show 1](/static/images/SR_Feb_FashionShow-1.jpg)
 ![Feb 2025 Fashion Show 2](/static/images/SR_Feb_FashionShow-2.jgp)
 ![Feb 2025 Fashion Show 3](/static/images/SR_Feb_FashionShow-3.jgp)
 ![Feb 2025 Fashion Show 4](/static/images/SR_Feb_FashionShow-4.jgp)
